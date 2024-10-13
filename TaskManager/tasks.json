@@ -1,10 +1,10 @@
 [
     {
-        "title": "un",
+        "title": "test",
         "deadline": "13:45"
     },
     {
-        "title": "hap",
-        "deadline": "11 i 16"
+        "title": "test2",
+        "deadline": "14-00"
     }
 ]
